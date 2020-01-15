@@ -1,9 +1,5 @@
 # PHP IMAP Fetch
 
-[![License](http://img.shields.io/packagist/l/tedivm/fetch.svg)](https://github.com/tedious/fetch/blob/master/LICENSE)
-[![Latest Stable Version](http://img.shields.io/github/release/tedious/fetch.svg)](https://packagist.org/packages/tedivm/fetch)
-[![Total Downloads](http://img.shields.io/packagist/dt/tedivm/fetch.svg)](https://packagist.org/packages/tedivm/fetch)
-
 PHP IMAP Fetch is a library for reading email and attachments, primarily using the POP 
 and IMAP protocols.
 
@@ -26,7 +22,7 @@ is recommended.
 
 ```
 "require": {
-  "vajiral/php-imap-fetch": "0.1.*"
+  "vajiral/php-imap-fetch": "0.0.1"
 }
 ```
 
