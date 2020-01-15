@@ -26,11 +26,6 @@ is recommended.
 }
 ```
 
-### Github
-
-Releases of Fetch are available on [Github][:releases:].
-
-
 ## Sample Usage
 
 This is just a simple code to show how to access messages by using Fetch. It
